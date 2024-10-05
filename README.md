@@ -1,4 +1,4 @@
-
+<image align="Center" alt="coding" width="1000"  src="https://img.freepik.com/premium-photo/silhouetted-user-interacting-with-futuristic-website-loading-screen-vibrant-neon-digital_1166177-13739.jpg?w=1060">
 <h1 align="center">Hi 👋, I'm Sachin Sherki</h1>
 <h3 align="center">I'm an Automation Testing Engineer with a passion for ensuring software quality through efficient test automation. Currently, I’m focused on leveraging Python and Selenium to build robust testing frameworks.</h3>
 
